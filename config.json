@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepetch",
+        "uuid": 10587360,
+        "checksum": "ldc29"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
